@@ -1,0 +1,13 @@
+.jumbotron {
+  background-color: black;
+  text-align: center;
+  color: aliceblue;
+}
+
+#inputdiv,
+#outputdiv {
+  border-width: 2px;
+  border-color: grey;
+  border-style: solid;
+  border-radius: 3px;
+}
